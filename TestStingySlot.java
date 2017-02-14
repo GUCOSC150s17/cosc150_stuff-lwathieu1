@@ -1,4 +1,4 @@
-package stingy;
+package lbw29;
 
 
 import static org.junit.Assert.*;
