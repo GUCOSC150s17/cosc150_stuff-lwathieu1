@@ -6,7 +6,12 @@ import static org.junit.Assert.*;
 
 import org.junit.*;
 
-//Tests a stingy slot. Needs to be in same folder as workable StingySlot.java
+
+/**
+ * Tests a stingy slot. Needs to be in same folder as a StingySlot class.
+ * @author Lancelot Wathieu
+ *
+ */
 public class TestStingySlot 
 {
 
